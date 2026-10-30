@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Giant Squid",
+    "scientificName": "Architeuthis dux",
+    "habitat": "All oceans, usually found near continental and island slopes",
+    "description": "Deep-ocean dwelling squid, grows to a tremendous size, first photographed in habitat in 2004."
   }
 ]
