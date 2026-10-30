@@ -34,5 +34,11 @@
     "scientificName": "Architeuthis dux",
     "habitat": "All oceans, usually found near continental and island slopes",
     "description": "Deep-ocean dwelling squid, grows to a tremendous size, first photographed in habitat in 2004."
+  },
+  {
+    "commonName": "Stoat",
+    "scientificName": "Mustela erminea",
+    "habitat": "Open and semi-wooded areas in the northern hemisphere.",
+    "description": "Small, slender, carnivorous mammal, that has a distinctive black-tipped tail which often turns white in winter."
   }
 ]
